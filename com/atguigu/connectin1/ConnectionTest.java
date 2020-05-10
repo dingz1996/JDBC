@@ -116,4 +116,5 @@ public class ConnectionTest {
         Connection connection = DriverManager.getConnection(url, user, password);
         System.out.println(connection);
     }
+
 }
